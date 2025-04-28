@@ -1,0 +1,7 @@
+1,Alice Johnson,85,92,78,88
+2,Bob Smith,75,80,70,78
+3,Charlie Brown,90,94,88,95
+4,David Lee,60,65,55,70
+5,Emma White,100,98,94,98
+6,Fay Harris,80,85,89,82
+7,Alon Aby, 25,20,15,05
